@@ -3,3 +3,4 @@ statsmodels
 joblib
 Flask
 gunicorn
+prophet
